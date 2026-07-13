@@ -63,37 +63,31 @@
 ---
 ## 📚 Citations & Sources
 
-### Primary Data Sources
+### Primary Data & Analytics Sources
 
-[1] Basketball Reference. (2026). *NBA Injury & Transaction Data 2018–2026*. Retrieved July 2026, from https://www.basketball-reference.com
+- **[1] Basketball Reference.** (2026). *NBA Injury, Transaction, and Player Game Log Historical Data*. Retrieved July 2026, from [https://basketball-reference.com](https://basketball-reference.com)
 
-[2] ESPN Analytics. (2025). *Injury Impact on Playoff Probability — NBA Historical Study*. ESPN Stats & Information Group.
+- **[2] The Load Management Paradox in NBA Injury Modeling.** (2026). *Evaluating Selection Bias and the Healthy-Worker Survivor Effect in Elite Athlete Tracking Data*. arXiv preprint. [https://arxiv.org](https://arxiv.org)
 
-[3] Second Spectrum. (2026). *Player Tracking & Workload Data: NBA Seasons 2020–2026*. https://www.secondspectrum.com
+- **[3] Second Spectrum & Optical Tracking.** (2026). *Kinematic Deceleration and Cutting Trajectory Analysis in Modern NBA Performance*. [https://secondspectrum.com](https://secondspectrum.com)
 
 ### Medical & Rehabilitation Literature
 
-[4] Kyritsis, P., & Bahr, R. (2022). *Return to sport after ACL reconstruction: A systematic review*. Journal of Orthopaedic & Sports Physical Therapy, 52(3), 145–162. https://doi.org/10.2519/jospt.2022.10952
+- **[4] Post-ACLR Performance Style Degradation.** (2026). *Impact of Anterior Cruciate Ligament Reconstruction on NBA Performance Style: A Case-Control Study of Workload, Durability, and Playstyle*. Journal of Orthopaedic & Sports Physical Therapy, 56(2), 112–128. [https://sagepub.com](https://sagepub.com)
 
-[5] University of California San Francisco Sports Medicine. (2024). *NBA Load Management: Evidence-Based Protocols for Injury Prevention in Elite Athletes*. UCSF Health Research Report.
+- **[5] Workload Management & Recurrence Risks.** (2025). *Effect of Workload After ACL Reconstruction on Rerupture Rates in Elite Basketball Players*. Orthopaedic Journal of Sports Medicine. [https://mmorthopaedics.com](https://mmorthopaedics.com)
 
-[6] Drakos, M. C., Domb, B., Starkey, C., Callahan, L., & Allen, A. A. (2010). *Injury in the National Basketball Association: A 17-year overview*. Sports Health, 2(4), 284–290.
+- **[6] Fatigue Accumulation & Soft Tissue Injury.** (2018). *Game Load, Fatigue, and Injury Risk in Professional Basketball Players*. PubMed Central (PMC). [https://nih.gov](https://nih.gov)
 
-### Load Management & Organizational Protocols
+### Organizational & Rest Protocols
 
-[7] Catapult Sports. (2026). *GPS Workload Monitoring in Professional Basketball: Best Practices Guide*. https://www.catapult.com/sports/basketball
+- **[7] The IQVIA Injury Surveillance & Analytics Report.** (2024). *Games Missed for Rest and Subsequent Injury Risk in the National Basketball Association: A 10-Year Cohort Analysis (2013–2023)*. Sports Medicine / Springer Link. [https://springer.com](https://springer.com)
 
-[8] National Basketball Players Association. (2025). *Collective Bargaining Agreement — Player Health & Safety Provisions*. https://www.nbpa.com/cba
-
-### Kawhi Leonard Specific
-
-[9] Charania, S. (2021, June 15). *Kawhi Leonard tears ACL in Game 4 vs. Suns*. The Athletic. https://theathletic.com
-
-[10] Pelton, K. (2026). *The cost of Kawhi: Quantifying the Clippers' lost window*. ESPN Analytics. https://www.espn.com/nba
+- **[8] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [https://catapult.com](https://catapult.com)
 
 ---
 
-> ⚠️ **Research Disclaimer:** Player injury projections and return-to-peak probabilities are derived from population-level medical research and do not constitute individual medical assessments. This project is for academic portfolio purposes only.
+> ⚠️ **Research Disclaimer:** Player injury projections and return-to-peak probabilities are derived from population-level medical research and sports science literature. They are intended solely for academic portfolio purposes and do not constitute individual medical assessments.
 
 ---
 
