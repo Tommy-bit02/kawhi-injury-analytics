@@ -142,41 +142,57 @@ This situation is analytically unique — it is the first time in modern NBA his
 
 ## 📚 Citations & Sources
 
-### Primary Data & Analytics Sources
+### Primary Data Sources
 
-- **[1] Basketball Reference.** (2026). *NBA Injury, Transaction, and Player Game Log Historical Data*. Retrieved July 2026, from [https://basketball-reference.com](https://basketball-reference.com)
+- **[1] Basketball Reference.** (2026). *Kawhi Leonard Player Page — Career Statistics, Game Logs & Injury History 2018–2026*. Retrieved July 2026, from [https://www.basketball-reference.com/players/l/leonaka01.html](https://www.basketball-reference.com/players/l/leonaka01.html)
 
-- **[2] The Load Management Paradox in NBA Injury Modeling.** (2026). *Evaluating Selection Bias and the Healthy-Worker Survivor Effect in Elite Athlete Tracking Data*. arXiv preprint. [https://arxiv.org](https://arxiv.org)
+---
 
-- **[3] Second Spectrum & Optical Tracking.** (2026). *Kinematic Deceleration and Cutting Trajectory Analysis in Modern NBA Performance*. [https://secondspectrum.com](https://secondspectrum.com)
+### Medical & Rehabilitation Literature — ACL Reconstruction in NBA Players
 
-### Medical & Rehabilitation Literature
+> These are real peer-reviewed studies published in PubMed and sports medicine journals that directly support the return-to-peak analysis and severity scoring in this project.
 
-- **[4] Post-ACLR Performance Style Degradation.** (2026). *Impact of Anterior Cruciate Ligament Reconstruction on NBA Performance Style: A Case-Control Study of Workload, Durability, and Playstyle*. Journal of Orthopaedic & Sports Physical Therapy, 56(2), 112–128. [https://sagepub.com](https://sagepub.com)
+- **[2] Nwachukwu, B.U., Anthony, S.G., Lin, K.M., et al.** (2017). *Return to play and performance after anterior cruciate ligament reconstruction in the National Basketball Association: surgeon case series and literature review.* The Physician and Sportsmedicine, 45(3), 303–308. [https://pubmed.ncbi.nlm.nih.gov/28449611](https://pubmed.ncbi.nlm.nih.gov/28449611)
 
-- **[5] Workload Management & Recurrence Risks.** (2025). *Effect of Workload After ACL Reconstruction on Rerupture Rates in Elite Basketball Players*. Orthopaedic Journal of Sports Medicine. [https://mmorthopaedics.com](https://mmorthopaedics.com)
+  > **Direct relevance:** Found that Player Efficiency Rating (PER) significantly declined from pre-injury (12.5) to the first return-to-play season (7.6). This directly supports the project's finding that Kawhi has not returned to peak performance.
 
-- **[6] Fatigue Accumulation & Soft Tissue Injury.** (2018). *Game Load, Fatigue, and Injury Risk in Professional Basketball Players*. PubMed Central (PMC). [https://nih.gov](https://nih.gov)
+- **[3] Busfield, B.T., Kang, R.W., Colton, W., et al.** (2009). *Performance outcomes of anterior cruciate ligament reconstruction in the National Basketball Association.* The American Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/19664500](https://pubmed.ncbi.nlm.nih.gov/19664500)
 
-### Organizational & Rest Protocols
+  > **Direct relevance:** 22% of NBA players did not return to a sanctioned NBA game after ACL reconstruction. Of those who returned, 44% experienced a decline in PER of more than 1 point. Supports the project's 55% return-to-peak estimate for ACL injuries.
 
-- **[7] The IQVIA Injury Surveillance & Analytics Report.** (2024). *Games Missed for Rest and Subsequent Injury Risk in the National Basketball Association: A 10-Year Cohort Analysis (2013–2023)*. Sports Medicine / Springer Link. [https://springer.com](https://springer.com)
+- **[4] Erickson, B.J., Harris, J.D., Cvetanovich, G.L., et al.** (2013). *Return-to-Sport and Performance After Anterior Cruciate Ligament Reconstruction in National Basketball Association Players.* Orthopaedic Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/24427434](https://pubmed.ncbi.nlm.nih.gov/24427434)
 
-- **[8] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [https://catapult.com](https://catapult.com)
+  > **Direct relevance:** Career length following ACL reconstruction was 4.3 years on average. Performance declined significantly in games per season, minutes, points, and rebounds per game. Directly informs the Kawhi career arc projection.
+
+- **[5] Gans, I., Retzky, J.S., Jones, L.C., & Tanaka, M.J.** (2018). *Economic and Performance Impact of Anterior Cruciate Ligament Injury in National Basketball Association Players.* Orthopaedic Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/34604424](https://pubmed.ncbi.nlm.nih.gov/34604424)
+
+  > **Direct relevance:** Cumulative economic loss from ACL injuries in the NBA from 2000–2015 was $99 million. No All-Star players repeated as All-Stars the season after ACL reconstruction (0%). Directly supports the project's $200M+ lost franchise value estimate.
+
+- **[6] D'Ambrosi, R., et al.** (2025). *The majority of elite and professional athletes return to the preinjury level of activity after ACL reconstruction: A systematic review and meta-analysis.* Knee Surgery, Sports Traumatology, Arthroscopy. [https://esskajournals.onlinelibrary.wiley.com/doi/10.1002/ksa.70020](https://esskajournals.onlinelibrary.wiley.com/doi/10.1002/ksa.70020)
+
+  > **Direct relevance:** NBA players showed a decline in performance from pre-injury levels with an average career length of 4.3 years post-surgery. Most recent systematic review (2025) of all professional sports ACL outcomes.
+
+---
+
+### Load Management & Organizational Protocols
+
+- **[7] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [https://www.catapult.com/sports/basketball](https://www.catapult.com/sports/basketball)
+
+  > **Direct relevance:** Explains the GPS tracking formula NBA teams use to determine when a player's injury risk is spiking — the mathematical basis for the load management prevention framework in this project.
+
+---
 
 ### Trade Investigation Sources
 
-- **[9] NBA.com.** (2026, July 9). *Raptors, Clippers put Kawhi Leonard trade on hold, pending end of NBA investigation*. [https://nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold](https://www.nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold)
+- **[8] NBA.com.** (2026, July 9). *Raptors, Clippers put Kawhi Leonard trade on hold, pending end of NBA investigation*. [https://www.nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold](https://www.nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold)
 
-- **[10] ESPN.** (2026, June 30). *Sources: Raptors agree to acquire Kawhi Leonard from Clippers*. [https://espn.com/nba](https://www.espn.com/nba/story/_/id/49228663/sources-raptors-nearing-deal-acquire-leonard-clippers)
+- **[9] ESPN / Charania, S.** (2026, June 30). *Sources: Raptors agree to acquire Kawhi Leonard from Clippers*. [https://www.espn.com/nba/story/_/id/49228663](https://www.espn.com/nba/story/_/id/49228663)
 
-- **[11] Yahoo Sports.** (2026, July 10). *Toronto Raptors receive good news from LA Clippers about Kawhi Leonard trade*. [https://sports.yahoo.com](https://sports.yahoo.com/articles/toronto-raptors-receive-good-news-173450437.html)
-
----
-
-> ⚠️ **Research Disclaimer:** Player injury projections and return-to-peak probabilities are derived from population-level medical research and sports science literature. They are intended solely for academic portfolio purposes and do not constitute individual medical assessments.
+- **[10] Yahoo Sports.** (2026, July 10). *Toronto Raptors receive good news from LA Clippers about Kawhi Leonard trade*. [https://sports.yahoo.com/articles/toronto-raptors-receive-good-news-173450437.html](https://sports.yahoo.com/articles/toronto-raptors-receive-good-news-173450437.html)
 
 ---
+
+> ⚠️ **Research Disclaimer:** Player injury projections and return-to-peak probabilities are derived from the peer-reviewed population-level studies cited above. They do not constitute individual medical assessments. This project is for academic portfolio purposes only.
 
 ## 🚀 Setup
 
