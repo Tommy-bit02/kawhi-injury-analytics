@@ -41,7 +41,7 @@
 
 ### Chart 3 — The Homecoming: Trade Agreed But FROZEN
 
-![Raptors Kawhi Frozen](chart3_raptors_kawhi_frozen.png)
+![Raptors Kawhi Frozen](chart3_raptors_kawhi_ceiling.png)
 
 **Reading this chart:**
 - **Top:** Full investigation timeline — trade agreed June 30, frozen July 9, still unresolved July 13, 2026
