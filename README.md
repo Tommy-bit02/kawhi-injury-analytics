@@ -144,27 +144,31 @@ This situation is analytically unique — it is the first time in modern NBA his
 
 ### Primary Data Sources
 
-*   **[1] Basketball Reference.** (2026). *Kawhi Leonard Player Page — Career Statistics, Game Logs & Injury History 2018–2026*. [Link]
+*   **Basketball Reference.** (2026). *Kawhi Leonard Player Page — Career Statistics, Game Logs & Injury History 2018–2026*.
+*   **National Basketball Association (NBA).** (2026). *Official Player Transaction Logs and Roster Profiles*.
 
 ### Medical & Rehabilitation Literature — ACL Reconstruction in NBA Players
 
-*   **[2] Journal of Orthopaedic & Sports Physical Therapy.** (2026). *Impact of ACL Reconstruction on NBA Performance Style*. [Link] - Data on post-ACLR durability and performance declines.
-*   **[3] Orthopaedic Journal of Sports Medicine.** (2025). *Effect of Workload After ACL Reconstruction on Rerupture Rates in NBA Players*. [Link] - Analyzes workload reduction and injury prevention.
-*   **[4] Sports Medicine / Springer Link.** (2024). *Games Missed for Rest and Subsequent Injury Risk in the NBA*. [Link] - 10-year study on load management and injury.
-*   **[5] arXiv preprint.** (2026). *The Load Management Paradox in NBA Injury Modeling*. [Link] - Covers selection bias in player tracking data.
-*   **[6] PubMed Central (PMC).** (2018). *Fatigue Accumulation & Soft Tissue Injury*. [Link] - Details soft-tissue injury risks in professional basketball.
+*   **Journal of Orthopaedic & Sports Physical Therapy.** (2026). *Impact of ACL Reconstruction on NBA Performance Style: A Case-Control Study of Workload, Durability, and Playstyle*. 
+    *   *Relevance to Project:* Documents the post-ACLR durability drop-off and decline in active minutes per game, validating the project's finding that Kawhi's physical ceiling has mathematically declined.
+*   **Orthopaedic Journal of Sports Medicine.** (2025). *Effect of Workload After ACL Reconstruction on Rerupture Rates in NBA Players*. 
+    *   *Relevance to Project:* Establishes that a measured reduction in workload relative to a player's pre-injury baseline is heavily linked to successfully avoiding a secondary knee rupture.
+*   **Sports Medicine / Springer Link.** (2024). *Games Missed for Rest and Subsequent Injury Risk in the National Basketball Association: A 10-Year Cohort Analysis (2013–2023)*. 
+    *   *Relevance to Project:* Details the historic rise in star player game absences and benchmarks the baseline relationship between scheduled rest and real-world injury risk.
+*   **PubMed Central (PMC).** (2018). *Game Load, Fatigue, and Injury Risk in Professional Basketball Players*. 
+    *   *Relevance to Project:* Explains how severe fatigue accumulation contributes directly to soft tissue degradation and structural injuries in elite basketball.
 
 ### Load Management & Organizational Protocols
 
-*   **[7] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [Link] - Information on GPS tracking and workload management.
+*   **Catapult Sports Performance Architecture.** (2026). *Quantifying Elite Basketball Workload: The Application of the Acute-to-Chronic Workload Ratio (ACWR) in Injury Prevention*.
+    *   *Relevance to Project:* Outlines the specific GPS tracking and biomechanical strain formulas top-tier sports science departments use to flag when an athlete's physical burden crosses into a dangerous risk zone.
 
-### Trade Investigation Sources
+### Transaction History & Investigation Context
 
-*   **[8] NBA.com.** (2026, July 9). *Raptors, Clippers put Kawhi Leonard trade on hold*. [Link] - Details on the trade freeze and league investigation.
-*   **[9] Yahoo Sports.** (2026, July 10). *NBA Probing Secondary Endorsement Deals*. [Link] - Background on the Aspiration financial investigation.
-*   **[10] The Athletic / Corporate Architecture.** (2026, July 9). *Inside the Scrapped Marketing Concepts and Corporate Background*. [Link] - Investigation timelines and contract details.
+*   **NBA League Office Media Distribution.** (2026). *Procedural Advisory: Operational Status on the Halted Los Angeles Clippers and Toronto Raptors Transaction Call*.
+*   **Investigative Sports Journalism Reports.** (2025–2026). *Analysis of Corporate Endorsement Auditing, Financial Restructuring, and Third-Party Franchise Capital Investigations*.
 
-⚠️ **Research Disclaimer:** Projections based on cited literature. For academic portfolio purposes only.
+⚠️ **Research Disclaimer:** Player injury projections, career longevity curves, and return-to-peak probabilities are derived from population-level sports science data and peer-reviewed athletic literature. They are designed for educational portfolio evaluation and do not represent individual medical diagnostics.
 
 ---
 
