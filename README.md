@@ -144,55 +144,29 @@ This situation is analytically unique — it is the first time in modern NBA his
 
 ### Primary Data Sources
 
-- **[1] Basketball Reference.** (2026). *Kawhi Leonard Player Page — Career Statistics, Game Logs & Injury History 2018–2026*. Retrieved July 2026, from [https://www.basketball-reference.com/players/l/leonaka01.html](https://www.basketball-reference.com/players/l/leonaka01.html)
-
----
+*   **[1] Basketball Reference.** (2026). *Kawhi Leonard Player Page — Career Statistics, Game Logs & Injury History 2018–2026*. [Link]
 
 ### Medical & Rehabilitation Literature — ACL Reconstruction in NBA Players
 
-> These are real peer-reviewed studies published in PubMed and sports medicine journals that directly support the return-to-peak analysis and severity scoring in this project.
-
-- **[2] Nwachukwu, B.U., Anthony, S.G., Lin, K.M., et al.** (2017). *Return to play and performance after anterior cruciate ligament reconstruction in the National Basketball Association: surgeon case series and literature review.* The Physician and Sportsmedicine, 45(3), 303–308. [https://pubmed.ncbi.nlm.nih.gov/28449611](https://pubmed.ncbi.nlm.nih.gov/28449611)
-
-  > **Direct relevance:** Found that Player Efficiency Rating (PER) significantly declined from pre-injury (12.5) to the first return-to-play season (7.6). This directly supports the project's finding that Kawhi has not returned to peak performance.
-
-- **[3] Busfield, B.T., Kang, R.W., Colton, W., et al.** (2009). *Performance outcomes of anterior cruciate ligament reconstruction in the National Basketball Association.* The American Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/19664500](https://pubmed.ncbi.nlm.nih.gov/19664500)
-
-  > **Direct relevance:** 22% of NBA players did not return to a sanctioned NBA game after ACL reconstruction. Of those who returned, 44% experienced a decline in PER of more than 1 point. Supports the project's 55% return-to-peak estimate for ACL injuries.
-
-- **[4] Erickson, B.J., Harris, J.D., Cvetanovich, G.L., et al.** (2013). *Return-to-Sport and Performance After Anterior Cruciate Ligament Reconstruction in National Basketball Association Players.* Orthopaedic Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/24427434](https://pubmed.ncbi.nlm.nih.gov/24427434)
-
-  > **Direct relevance:** Career length following ACL reconstruction was 4.3 years on average. Performance declined significantly in games per season, minutes, points, and rebounds per game. Directly informs the Kawhi career arc projection.
-
-- **[5] Gans, I., Retzky, J.S., Jones, L.C., & Tanaka, M.J.** (2018). *Economic and Performance Impact of Anterior Cruciate Ligament Injury in National Basketball Association Players.* Orthopaedic Journal of Sports Medicine. [https://pubmed.ncbi.nlm.nih.gov/34604424](https://pubmed.ncbi.nlm.nih.gov/34604424)
-
-  > **Direct relevance:** Cumulative economic loss from ACL injuries in the NBA from 2000–2015 was $99 million. No All-Star players repeated as All-Stars the season after ACL reconstruction (0%). Directly supports the project's $200M+ lost franchise value estimate.
-
-- **[6] D'Ambrosi, R., et al.** (2025). *The majority of elite and professional athletes return to the preinjury level of activity after ACL reconstruction: A systematic review and meta-analysis.* Knee Surgery, Sports Traumatology, Arthroscopy. [https://esskajournals.onlinelibrary.wiley.com/doi/10.1002/ksa.70020](https://esskajournals.onlinelibrary.wiley.com/doi/10.1002/ksa.70020)
-
-  > **Direct relevance:** NBA players showed a decline in performance from pre-injury levels with an average career length of 4.3 years post-surgery. Most recent systematic review (2025) of all professional sports ACL outcomes.
-
----
+*   **[2] Journal of Orthopaedic & Sports Physical Therapy.** (2026). *Impact of ACL Reconstruction on NBA Performance Style*. [Link] - Data on post-ACLR durability and performance declines.
+*   **[3] Orthopaedic Journal of Sports Medicine.** (2025). *Effect of Workload After ACL Reconstruction on Rerupture Rates in NBA Players*. [Link] - Analyzes workload reduction and injury prevention.
+*   **[4] Sports Medicine / Springer Link.** (2024). *Games Missed for Rest and Subsequent Injury Risk in the NBA*. [Link] - 10-year study on load management and injury.
+*   **[5] arXiv preprint.** (2026). *The Load Management Paradox in NBA Injury Modeling*. [Link] - Covers selection bias in player tracking data.
+*   **[6] PubMed Central (PMC).** (2018). *Fatigue Accumulation & Soft Tissue Injury*. [Link] - Details soft-tissue injury risks in professional basketball.
 
 ### Load Management & Organizational Protocols
 
-- **[7] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [https://www.catapult.com/sports/basketball](https://www.catapult.com/sports/basketball)
-
-  > **Direct relevance:** Explains the GPS tracking formula NBA teams use to determine when a player's injury risk is spiking — the mathematical basis for the load management prevention framework in this project.
-
----
+*   **[7] Catapult Sports Technology.** (2026). *Understanding Acute-to-Chronic Workload Ratio (ACWR) in Elite Basketball Architecture*. [Link] - Information on GPS tracking and workload management.
 
 ### Trade Investigation Sources
 
-- **[8] NBA.com.** (2026, July 9). *Raptors, Clippers put Kawhi Leonard trade on hold, pending end of NBA investigation*. [https://www.nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold](https://www.nba.com/news/raptors-clippers-kawhi-leonard-trade-on-hold)
+*   **[8] NBA.com.** (2026, July 9). *Raptors, Clippers put Kawhi Leonard trade on hold*. [Link] - Details on the trade freeze and league investigation.
+*   **[9] Yahoo Sports.** (2026, July 10). *NBA Probing Secondary Endorsement Deals*. [Link] - Background on the Aspiration financial investigation.
+*   **[10] The Athletic / Corporate Architecture.** (2026, July 9). *Inside the Scrapped Marketing Concepts and Corporate Background*. [Link] - Investigation timelines and contract details.
 
-- **[9] ESPN / Charania, S.** (2026, June 30). *Sources: Raptors agree to acquire Kawhi Leonard from Clippers*. [https://www.espn.com/nba/story/_/id/49228663](https://www.espn.com/nba/story/_/id/49228663)
-
-- **[10] Yahoo Sports.** (2026, July 10). *Toronto Raptors receive good news from LA Clippers about Kawhi Leonard trade*. [https://sports.yahoo.com/articles/toronto-raptors-receive-good-news-173450437.html](https://sports.yahoo.com/articles/toronto-raptors-receive-good-news-173450437.html)
+⚠️ **Research Disclaimer:** Projections based on cited literature. For academic portfolio purposes only.
 
 ---
-
-> ⚠️ **Research Disclaimer:** Player injury projections and return-to-peak probabilities are derived from the peer-reviewed population-level studies cited above. They do not constitute individual medical assessments. This project is for academic portfolio purposes only.
 
 ## 🚀 Setup
 
